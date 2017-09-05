@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Store Mgmt App</string>
+    <string name="action_settings">Settings</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="product_price">Product Price</string>
+    <string name="add_image">Add Image</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="order">Order this Product</string>
+    <string name="price">Price (Rs)</string>
+    <string name="sale">SALE</string>
+    <string name="empty_list_view">Store is Empty...Add A Product</string>
+</resources>
